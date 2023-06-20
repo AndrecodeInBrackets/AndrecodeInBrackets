@@ -6,5 +6,5 @@
 |Programming Languages|Python, HTML, CSS, JS|
 |Hobby|Cubing, Coding, Designing|
 
-![Global Gaming](assets/GG-2023.png)
+![Global Gaming](/assets/images/GG-2023.png)
 
