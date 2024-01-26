@@ -7,11 +7,6 @@
 |Hobbies|Cubing<br> Coding<br> Designing|
 ---
 
-## You shall join these servers too!
-<img src="GG-2023.png" height="35"> <a href="https://discord.gg/pEF3WsFkXJ">Global Gaming Discord Server</a>  
-<img src="Global-Coding.png" height="35"> <a href="https://discord.gg/MWHp5yJBPE">Global Coding Discord Server</a>  
-<img src="Global-Games-2023.png" height="35"> <a href="https://discord.gg/RAXBgfHJB3">CG Gaming Discord Server</a>
-
 # Socials
 |Social Media|Username|
 |---|---|
